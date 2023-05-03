@@ -1,0 +1,10 @@
+The sum of <NUM1> and <NUM2> is 
+Add <NUM1> to <NUM2>. Answer is 
+Sum <NUM1> and <NUM2>. Answer is 
+The output of addition of <NUM1> and <NUM2> is 
+How much is <NUM1> + <NUM2>? Answer is 
+The result if addition of <NUM1> and <NUM2> is 
+Increase <NUM1> by <NUM2>. Answer is 
+<NUM1> + <NUM2> is 
+<NUM1> + <NUM2> = 
+<NUM1> plus <NUM2> is 
